@@ -1,1 +1,6 @@
-{"allowed_sha256":["224D4FD5908B6C88E7D7AB9C2A999DBC740FC7F57F91A3D1321F012F2386555F"]}
+{
+  "signer_sha256": "224d4fd5908b6c88e7d7ab9c2a999dbc740fc7f57f91a3d1321f012f2386555f",
+  "algo": "SHA-256",
+  "owner": "Vikash",
+  "updated": "2025-08-29"
+}
