@@ -1,1 +1,4 @@
-{ "status": "active" }
+{
+  "status": "active",
+  "redirect_url": "https://example.com/your-link"
+}
